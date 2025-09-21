@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="2025-09-20-214610_hyprshot" src="https://github.com/user-attachments/assets/8485ea9a-6c2e-4d92-8e50-e6faa5b33f59" />
+
+
 # ReaganPLAYER
 
 ReaganPLAYER is a lightweight, terminal-based music player designed for simplicity and efficiency. Built with Python, it provides a text-based interface for navigating your music library, playing audio files, and managing playback, all without leaving your command line.
