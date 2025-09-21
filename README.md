@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="2025-09-20-214610_hyprshot" src="https://github.com/user-attachments/assets/8485ea9a-6c2e-4d92-8e50-e6faa5b33f59" />
+<img width="1920" height="1080" alt="2025-09-20-215109_hyprshot" src="https://github.com/user-attachments/assets/2ebb34e5-53ed-4e0c-9266-145f24a31939" />
 
 
 # ReaganPLAYER
