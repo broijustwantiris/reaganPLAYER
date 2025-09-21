@@ -18,6 +18,10 @@ ReaganPLAYER is a lightweight, terminal-based music player designed for simplici
 
 ## Installation
 
+### Music Directory Structure
+
+  Make sure to have your music in a folder, with the music folder containing artist folders, in the artist folders album folders, and in the album folders your music files.
+  
 ### Prerequisites
 
   - Python 3.6 or higher
